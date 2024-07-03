@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
 | ------- |
@@ -63,12 +65,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
