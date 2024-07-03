@@ -51,4 +51,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
