@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jigyansunanda/LCX-Java/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/jigyansunanda/LCX-Java/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jigyansunanda/LCX-Java/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
