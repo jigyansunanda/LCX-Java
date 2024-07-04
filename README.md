@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/jigyansunanda/LCX-Java/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
