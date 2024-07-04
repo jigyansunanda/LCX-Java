@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jigyansunanda/LCX-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/jigyansunanda/LCX-Java/tree/master/0101-symmetric-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0543-diameter-of-binary-tree](https://github.com/jigyansunanda/LCX-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jigyansunanda/LCX-Java/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
