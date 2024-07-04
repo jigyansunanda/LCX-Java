@@ -12,36 +12,12 @@ class Solution {
     }
 
     public int romanToInt(String s) {
-        int index = 0, value = 0;
-        while (index < s.length()) {
-            char c = s.charAt(index);
-            if (c == 'I') {
-                if (index + 1 < s.length() && (s.charAt(index + 1) == 'V' || s.charAt(index + 1) == 'X')) {
-                    value += map.get(s.charAt(index + 1)) - map.get(c);
-                    index += 2;
-                } else {
-                    value += map.get(c);
-                    index += 1;
-                }
-            } else if (c == 'X') {
-                if (index + 1 < s.length() && (s.charAt(index + 1) == 'L' || s.charAt(index + 1) == 'C')) {
-                    value += map.get(s.charAt(index + 1)) - map.get(c);
-                    index += 2;
-                } else {
-                    value += map.get(c);
-                    index += 1;
-                }
-            } else if (c == 'C') {
-                if (index + 1 < s.length() && (s.charAt(index + 1) == 'D' || s.charAt(index + 1) == 'M')) {
-                    value += map.get(s.charAt(index + 1)) - map.get(c);
-                    index += 2;
-                } else {
-                    value += map.get(c);
-                    index += 1;
-                }
+        int value = 0;
+        for (int i = 0; i < s.length(); ++i) {
+            if (i + 1 < s.length() && map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) {
+                value -= map.get(s.charAt(i));
             } else {
-                value += map.get(c);
-                index += 1;
+                value += map.get(s.charAt(i));
             }
         }
         return value;
