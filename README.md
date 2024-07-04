@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
 | [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
