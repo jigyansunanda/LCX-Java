@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
