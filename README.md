@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
 | [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jigyansunanda/LCX-Java/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jigyansunanda/LCX-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
