@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jigyansunanda/LCX-Java/tree/master/0146-lru-cache) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
