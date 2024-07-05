@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
@@ -159,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
