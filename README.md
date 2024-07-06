@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 | [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jigyansunanda/LCX-Java/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/jigyansunanda/LCX-Java/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jigyansunanda/LCX-Java/tree/master/0238-product-of-array-except-self) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
