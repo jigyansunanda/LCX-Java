@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/jigyansunanda/LCX-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/jigyansunanda/LCX-Java/tree/master/0146-lru-cache) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jigyansunanda/LCX-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/jigyansunanda/LCX-Java/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/jigyansunanda/LCX-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/jigyansunanda/LCX-Java/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
