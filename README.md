@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/jigyansunanda/LCX-Java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jigyansunanda/LCX-Java/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 ## Prefix Sum
