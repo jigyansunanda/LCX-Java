@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 | [0238-product-of-array-except-self](https://github.com/jigyansunanda/LCX-Java/tree/master/0238-product-of-array-except-self) |
+| [0472-concatenated-words](https://github.com/jigyansunanda/LCX-Java/tree/master/0472-concatenated-words) |
 | [0735-asteroid-collision](https://github.com/jigyansunanda/LCX-Java/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/jigyansunanda/LCX-Java/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0472-concatenated-words](https://github.com/jigyansunanda/LCX-Java/tree/master/0472-concatenated-words) |
 | [0778-reorganize-string](https://github.com/jigyansunanda/LCX-Java/tree/master/0778-reorganize-string) |
 ## Stack
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jigyansunanda/LCX-Java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0472-concatenated-words](https://github.com/jigyansunanda/LCX-Java/tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/jigyansunanda/LCX-Java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jigyansunanda/LCX-Java/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0472-concatenated-words](https://github.com/jigyansunanda/LCX-Java/tree/master/0472-concatenated-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
+| [0472-concatenated-words](https://github.com/jigyansunanda/LCX-Java/tree/master/0472-concatenated-words) |
 ## Math
 |  |
 | ------- |
