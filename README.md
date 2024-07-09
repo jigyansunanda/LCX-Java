@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
+| [0078-subsets](https://github.com/jigyansunanda/LCX-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jigyansunanda/LCX-Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/jigyansunanda/LCX-Java/tree/master/0139-word-break) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jigyansunanda/LCX-Java/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/jigyansunanda/LCX-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jigyansunanda/LCX-Java/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0140-word-break-ii) |
 ## Prefix Sum
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jigyansunanda/LCX-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
