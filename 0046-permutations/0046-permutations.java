@@ -3,7 +3,6 @@ class Solution {
     private List<List<Integer>> permutations;
 
     public List<List<Integer>> permute(int[] arr) {
-        int n = arr.length;
         this.permutation = new ArrayList<>();
         this.permutations = new ArrayList<>();
         dfs(arr, 0);
