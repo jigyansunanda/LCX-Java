@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/jigyansunanda/LCX-Java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/jigyansunanda/LCX-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/jigyansunanda/LCX-Java/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/jigyansunanda/LCX-Java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jigyansunanda/LCX-Java/tree/master/0078-subsets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jigyansunanda/LCX-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jigyansunanda/LCX-Java/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/jigyansunanda/LCX-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jigyansunanda/LCX-Java/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/jigyansunanda/LCX-Java/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
