@@ -44,29 +44,6 @@ class Solution {
                 l = indexInFirstArray + 1;
             }
         }
-        // Fact: m <= n
-        if (A[m - 1] <= B[0]) {
-            if (m == n)
-                return ((double) A[m - 1] + B[0]) / 2.0;
-            else {
-                int index = ((m + n + 1) / 2) - m;
-                if (isOdd)
-                    return (double) B[index - 1];
-                else
-                    return ((double) B[index - 1] + B[index - 2]) / 2.0;
-            }
-        }
-        if (B[n - 1] <= A[0]) {
-            if (m == n) return ((double) B[n - 1] + A[0]) / 2.0;
-            // n > m
-            else {
-                int index = ((m + n + 1) / 2);
-                if (isOdd)
-                    return (double) B[index - 1];
-                else
-                    return ((double) B[index - 1] + B[index]) / 2.0;
-            }
-        }
         return -1;
     }
 }
